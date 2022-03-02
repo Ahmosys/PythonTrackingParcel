@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from ctypes import util
 import os
 from modules import utility
 
